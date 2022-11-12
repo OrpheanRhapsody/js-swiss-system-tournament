@@ -1,6 +1,6 @@
 # First round of Swiss system tournament
 
-This little javascript program organizes the first round of a Swiss system tournament according to the Elo score of the players.
+This simple javascript program organizes the first round of a Swiss system tournament according to the Elo score of the players.
 
 The json file ``app/db/players.json`` must contain an even number of players. Each player object must have a ```elo_points``` key.
 
