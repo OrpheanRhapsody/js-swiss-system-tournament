@@ -8,4 +8,4 @@ The json file ``app/db/players.json`` must contain an even number of players. Ea
 - clone the repo 
 - go to the root of the folder name you chose
 - launch ```node app/js/main.js``` in your terminal of choice
-- results have been written in ```app/db/first_round```
+- results have been written in ```app/db/first_round.json```
